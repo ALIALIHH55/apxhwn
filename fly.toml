@@ -1,0 +1,8 @@
+app = "nb"
+primary_region = "fra"
+
+[experimental.attached]
+secrets = { }
+
+[processes]
+app = "python main.py"
